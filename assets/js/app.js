@@ -11,7 +11,7 @@ import css from "../css/app.css";
 //
 import "phoenix_html";
 
-import "phoenix";
+import Game from "./game/game.jsx";
 
 // Import local files
 //
